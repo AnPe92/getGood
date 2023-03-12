@@ -10,6 +10,7 @@ import java.util.Scanner;
 
 @SpringBootApplication
 public class GetGoodApplication {
+    //test for git
 
 
     public static void main(String[] args) {
